@@ -20,3 +20,8 @@ Almost every AI system uses NumPy concepts.
 - optimized for math
 
 **Example:** A=[1,2,3,4,5]
+
+## 2. Array Shape
+Shape tells dimensions of data.  
+
+**Example:** Shape=(rows,columns)
