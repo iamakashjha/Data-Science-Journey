@@ -1,7 +1,11 @@
 ### Recommended Learning Order
+
+- Statistics
+- Probability
+- Linear Algebra
+- Calculus
 - Python
 - SQL
-- Statistics
 - Pandas + NumPy
 - Data Visualization
 - Machine Learning
@@ -10,7 +14,6 @@
 - Data Engineering
 - MLOps
 - System Design
-
 
 
 ### Best Practices From Day 1
