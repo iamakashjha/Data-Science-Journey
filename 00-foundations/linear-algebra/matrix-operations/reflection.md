@@ -59,9 +59,9 @@ Z=XW+b
 ```
 where:
 
-X = input data
-W = weights learned during training
-b = bias
+X = input data  
+W = weights learned during training  
+b = bias  
 Z = output before applying an activation function
 
 This operation is the foundation of almost every machine learning model.
