@@ -75,3 +75,4 @@ Instead of keeping both dimensions, PCA finds:
 - the direction with the least information
 
 Those directions come from **eigenvectors**.
+

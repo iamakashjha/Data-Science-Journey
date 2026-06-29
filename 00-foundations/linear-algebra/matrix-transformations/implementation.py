@@ -13,3 +13,6 @@ v = np.array([
 result = S @ v
 
 print(result)
+
+
+# Try changing the scaling factor to 0.5 or 3 and observe the result.

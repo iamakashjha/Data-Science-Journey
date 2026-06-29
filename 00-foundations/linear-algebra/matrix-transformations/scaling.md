@@ -1,4 +1,4 @@
-Key Takeaway
+## Key Takeaway
 
 Today you should leave with this mental model:
 ```
