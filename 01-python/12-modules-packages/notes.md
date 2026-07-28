@@ -32,4 +32,5 @@ Why do professional developers split code into multiple modules instead of writi
 - Encourages code reuse
 - Simplifies debugging
 - Makes testing easier
-- Helps teams collaborate on different parts of a project
+- Helps teams collaborate on different parts of a project.
+
