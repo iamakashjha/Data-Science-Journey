@@ -1,0 +1,4 @@
+- Python Classes Documentation
+- Real Python – OOP Guide
+- Scikit-learn API Design Principles
+- OOP Design Patterns (Introduction)
